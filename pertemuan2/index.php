@@ -28,10 +28,13 @@
 // echo  $umur;
 
 // echo $title;
-function buatNama()
-{
-    return "saya suka jalan jalan";
-}
+// function buatNama()
+// {
+//     return "saya suka jalan jalan";
+// }
 
-$iniFunc = buatNama();
-echo $iniFunc;
+// $iniFunc = buatNama();
+// echo $iniFunc;
+
+//  coba coba
+//  function data diri , nama jurusan dan lainnya
